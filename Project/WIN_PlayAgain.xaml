@@ -1,0 +1,49 @@
+﻿<Window x:Class="MazeMigraine.WIN_PlayAgain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MazeMigraine"
+        mc:Ignorable="d"
+        Title="WIN_PlayAgain" Height="300" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None"> 
+    <Grid Background="#FF151515">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="PLAY AGAIN?" Grid.Row="0" Grid.ColumnSpan="2" FontFamily="Impact" FontWeight="Bold" FontSize="55" Foreground="Red" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label.Effect>
+                <DropShadowEffect Color="#FFFFBF8A" Direction="100"/>
+            </Label.Effect>
+        </Label>
+
+        <Button Name="bt_yes" Grid.Row="1" Grid.Column="0" FontFamily="Impact" Content="YES" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="55" Foreground="Black" Click="Bt_yes_Click">
+            <Button.Effect>
+                <DropShadowEffect Direction="100" Color="White"/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF6E6969" Offset="0"/>
+                    <GradientStop Color="#99FFFFFF" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button Name="bt_no" Grid.Row="1" Grid.Column="1" FontFamily="Impact" Content="NO" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="55" Foreground="Black" Click="Bt_no_Click">
+            <Button.Effect>
+                <DropShadowEffect Direction="100" Color="White"/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF6E6969" Offset="0"/>
+                    <GradientStop Color="#99FFFFFF" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
