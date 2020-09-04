@@ -24,5 +24,5 @@ other players can choose to replay that particular level.
 
 ## How do you generate maze levels?
 There are plenty of ways you can [Generate a Maze](https://en.wikipedia.org/wiki/Maze_generation_algorithm).
-The one I've decided to implement was the iterative version of the [Randomized Depth-First Search](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_depth-first_search)
+The one I've decided to implement was the iterative version of the [Randomized Depth-First Search](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_depth-first_search).
 
