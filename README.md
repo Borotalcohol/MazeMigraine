@@ -17,7 +17,7 @@ The goal was to create a simple game using C# and WPF covering different aspects
 
 
 ## App Workflow
-![Workflow Draw](Project/Resources/Workflow.jpg)
+![Workflow Draw](Project/Resources/Workflow.jpg =250x)
 
 ## How does it work?
 The way it works is that you can choose to generate a new random maze for each of the difficulty levels
