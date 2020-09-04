@@ -19,6 +19,14 @@ The goal was to create a simple game using C# and WPF covering different aspects
 ## App Workflow
 <img src="Project/Resources/Workflow.jpg" alt="Workflow Draw" width="650"/>
 
+
+## Installation
+You can install and run the program following these steps:
+1. Clone this repo to your local machine using ```git clone https://github.com/Borotalcohol/MazeMigraine.git```
+2. The executable file is called MazeMigraine.exe and it's located in **bin/Debug/**.
+3. \[Optional\] In order to modify the source code, you'll have to use Visual Studio (2019 recommended)
+
+
 ## How does it work?
 The way it works is that you can choose to generate a new random maze for each of the difficulty levels
 (Easy 10x10, Normal 20x20, Difficult 30x30). Whenever you generate a new maze, it gets saved, so you and
