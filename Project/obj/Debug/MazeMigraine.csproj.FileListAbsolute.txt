@@ -1,0 +1,141 @@
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\bin\Debug\MazeMigraine.exe.config
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\bin\Debug\MazeMigraine.exe
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\bin\Debug\MazeMigraine.pdb
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MainWindow.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\UC_MenuPage.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\App.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.cache
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.lref
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MainWindow.baml
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\UC_MenuPage.baml
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.g.resources
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.Properties.Resources.resources
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.exe
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.pdb
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_Leaderboard.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_Leaderboard.baml
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_Mode.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_Mode.baml
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_LevelSelection.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_LevelSelection.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\bin\Debug\MazeMigraine.exe.config
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\bin\Debug\MazeMigraine.exe
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\bin\Debug\MazeMigraine.pdb
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\UC_MenuPage.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_Leaderboard.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_LevelSelection.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_Mode.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\App.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.cache
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.lref
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MainWindow.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\UC_MenuPage.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_Leaderboard.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_LevelSelection.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_Mode.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.g.resources
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.Properties.Resources.resources
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.csproj.GenerateResource.cache
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.exe
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\MazeMigraine.pdb
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_Game.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_Game.baml
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_GameOver.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\MazeMigraine\obj\Debug\WIN_GameOver.baml
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_Game.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_GameOver.g.cs
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_Game.baml
+C:\Users\chris\source\repos\MazeMigraine\MazeMigraine\obj\Debug\WIN_GameOver.baml
+C:\Users\IEUser\Desktop\MazeMigraine\bin\Debug\MazeMigraine.exe.config
+C:\Users\IEUser\Desktop\MazeMigraine\bin\Debug\MazeMigraine.exe
+C:\Users\IEUser\Desktop\MazeMigraine\bin\Debug\MazeMigraine.pdb
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\UC_MenuPage.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_Game.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_GameOver.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_Leaderboard.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_LevelSelection.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_Mode.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\App.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.cache
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.lref
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MainWindow.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\UC_MenuPage.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_Game.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_GameOver.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_Leaderboard.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_LevelSelection.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_Mode.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.g.resources
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.Properties.Resources.resources
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.csproj.GenerateResource.cache
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.exe
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\MazeMigraine.pdb
+C:\Users\chris\source\repos\MazeMigraine\bin\Debug\MazeMigraine.exe.config
+C:\Users\chris\source\repos\MazeMigraine\bin\Debug\MazeMigraine.exe
+C:\Users\chris\source\repos\MazeMigraine\bin\Debug\MazeMigraine.pdb
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MainWindow.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\UC_MenuPage.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_Game.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_GameOver.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_Leaderboard.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_LevelSelection.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_Mode.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\App.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.cache
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine_MarkupCompile.lref
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MainWindow.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\UC_MenuPage.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_Game.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_GameOver.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_Leaderboard.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_LevelSelection.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_Mode.baml
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.g.resources
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.Properties.Resources.resources
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.exe
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\MazeMigraine.pdb
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_PlayAgain.g.cs
+C:\Users\chris\source\repos\MazeMigraine\obj\Debug\WIN_PlayAgain.baml
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_PlayAgain.g.cs
+C:\Users\IEUser\Desktop\MazeMigraine\obj\Debug\WIN_PlayAgain.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\bin\Debug\MazeMigraine.exe.config
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\bin\Debug\MazeMigraine.exe
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\bin\Debug\MazeMigraine.pdb
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MainWindow.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\UC_MenuPage.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_Game.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_GameOver.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_Leaderboard.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_LevelSelection.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_Mode.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_PlayAgain.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\App.g.cs
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine_MarkupCompile.cache
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine_MarkupCompile.lref
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MainWindow.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\UC_MenuPage.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_Game.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_GameOver.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_Leaderboard.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_LevelSelection.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_Mode.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\WIN_PlayAgain.baml
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.g.resources
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.exe
+C:\Users\chris\OneDrive\Desktop\GitHub Projects\Maze Migraine\obj\Debug\MazeMigraine.pdb
